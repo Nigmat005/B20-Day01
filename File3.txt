@@ -1,2 +1,4 @@
 This is third file
 
+We updated all files
+So that git can control all changed at same time
