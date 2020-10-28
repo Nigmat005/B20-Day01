@@ -1,1 +1,5 @@
 This is the day 01 of B20 class
+
+We created a git repository on desktop called B20-Day01
+We added one file inside called file.txt
+We committed this changes into local repository 
